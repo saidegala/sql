@@ -14,5 +14,6 @@ SQL> quit
 
 ==================================================
 
+create user sai identified by sai;
 
 
