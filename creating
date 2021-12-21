@@ -16,4 +16,13 @@ SQL> quit
 
 create user sai identified by sai;
 
+SQL> conn / as sysdba
+Connected.
+SQL> grant create session to hr;
+
+============================================
+
+https://logic.edchen.org/how-to-resolve-ora-01031-insufficient-privileges/
+
+===================================
 
