@@ -1,0 +1,18 @@
+$ sqlplus "/ as sysdba"
+SQL> show user
+
+USER is "SYS"
+
+SQL> passw system
+
+
+=======================================================
+
+SQL> passw sys
+
+SQL> quit
+
+==================================================
+
+
+
